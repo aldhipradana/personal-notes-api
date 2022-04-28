@@ -46,3 +46,5 @@ require('./routes/user.routes')(app)
 app.listen(port, () => {
   console.log(`Application started on port http://localhost:${port}`);
 });
+
+//test
